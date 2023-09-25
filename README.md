@@ -1,4 +1,4 @@
-# Autonomy-data
+# autonomy
 Autonomy is an autonomous AI Agent and Data marketplace that allows users to buy, sell, and build composable AI systems.
 # Running the backend
 - Install Python version management tool: [pyenv](https://github.com/pyenv/pyenv) or [asdf](https://github.com/asdf-vm/asdf)
